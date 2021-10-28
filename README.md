@@ -7,13 +7,13 @@
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
 <p>
- I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2011, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
+ I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2014, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
 </p>
 <p>🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
 <p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
 </p>
 <p align="center">
-  <a href="https://github.com/krosmanksu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;10+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
+  <a href="https://github.com/krosmanksu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;8+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
@@ -28,7 +28,7 @@
 - ⚖ <b>Testing Tools</b> : Mocha, Jest, Jasmine, Postman
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
 - 💻 <b>Operation System</b> : Windows, Linux, MacOS
-<!--<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=darkrut22&column=7&theme=onedark"/></p>-->
+<!--<p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=krosmanksu&column=7&theme=onedark"/></p>-->
 ## Languages & Tools
 <!-- programing languages -->
 <code><img height="80" width="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
@@ -116,7 +116,7 @@
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=krosmanksu&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krosmanksu&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
   <a href="https://github.com/krosmanksu/krosmanksu">
-    <img alt="krosmanksu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Darkrut22&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" />
+    <img alt="krosmanksu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krosmanksu&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" />
   </a>
   
 </p>
