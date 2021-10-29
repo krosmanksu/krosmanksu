@@ -13,8 +13,8 @@
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## Education
-👩‍🎓 <b>Bachelor of Computer Science (BCompSc)</b> : Kuban State Technological University - Krasnodar Krai
-From February 2009 to July 2013<br>
+👩‍🎓 <b>Bachelor of Computer Science (BCompSc)</b> : Kuban State Technological University - From February 2009 to July 2013<br>
+<!-- - Krasnodar Krai, Russian Federation -->
 Kuban State Technological University, also referred to as the Kuban State University of Technology, is a Russian public technical university located in Krasnodar, one of the first higher educational institutions established in the southern region of Russia.<br>
 Relevant Coursework: Operating Systems Architecture, Linux/Unix Programming, Usability in Website and Software Design, C++ Programming, Web Page Development, Relational Database Design & SQL, Data Engineering, Advanced Software Programming.
 ## Work experience
