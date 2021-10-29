@@ -1,22 +1,41 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Engineer</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Passionate, creative and attentive developer</h1>
 <p>
 <p>
-  <img align="right" width="400" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
+  <img align="right" width="300" src="https://www.talk-recruitment.co.uk/userfiles/TalkRecruitment/ffImages/software%20engineer%20vs%20programmer%20blog.jpg" />
 <!--   <img width="40%" src="https://www.manageengine.com/images/msp-banner.svg" /> -->
 </p>
 <!-- <p align="center"><img src="https://scopetech.sa/static/media/react2.bd316a31.gif" /></p> -->
 <!-- <p align="center"><img src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" /></p> -->
-<p>
- I am a senior full-stack software engineer and architect with experience developing Web, Mobile, and Desktop applications. Since 2014, I have been working professionally in the fields I love, IT and I have worked in all phases of the project life cycle, using a wide variety of tools and frameworks. 
-</p>
-<p>🏆 I have extensive expertise in complex software development and in solving challenging problems that require a strong scientific background.</p>
-<p>💬 All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.</p>
-</p>
+<p>Creative and efficient full stack developer with over 8 years of experience in web and mobile application design, development and maintenance. Possesses diverse experience of creating multiple highly scalable applications using different tech stacks. Certified in both F/E and B/E technologies. Leaded successful transition from classical web skills to MEAN which reduced development time and improved system performance.</p>
 <p align="center">
   <a href="https://github.com/krosmanksu"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20and%20Creative%20Full-Stack%20Software%20engineer;8+%2B%20years%20of%20working%20experience;&center=true&width=600&height=45"></a>
 </p>
 
 <b> 🎬 I am ready to start your project immediately.</b>
+## Education
+👩‍🎓 <b>Bachelor of Computer Science (BCompSc)</b> : Kuban State Technological University - Krasnodar Krai
+From February 2009 to July 2013<br>
+Kuban State Technological University, also referred to as the Kuban State University of Technology, is a Russian public technical university located in Krasnodar, one of the first higher educational institutions established in the southern region of Russia.<br>
+Relevant Coursework: Operating Systems Architecture, Linux/Unix Programming, Usability in Website and Software Design, C++ Programming, Web Page Development, Relational Database Design & SQL, Data Engineering, Advanced Software Programming.
+## Work experience
+<b>Frontend Developer</b><br>
+<b>ASPIRITY</b> - Krasnoyarsk, Russian Federation<br> 
+From May 2014 to April 2016<br>
+<ul>
+<li>Implemented websites, mobile applications, and landing pages from concept through deployment.</li>
+<li>Standardized all output with a new, responsive, mobile-first approach and strategy.</li>
+<li>Developed standard reports in graph format as required.</li>
+</ul>
+<b>Full Stack Developer</b><br>
+<b>Artezio</b> - Moscow, Russian Federation<br>
+From May 2016 to February 2021<br>
+<ul>
+<li>Maximized applications' efficiency, data quality, scope, operability, and flexibility.</li>
+<li>Improved the performance of whole system with efficiency memory usage, multithreading, distributed computing, and other various ideas.</li>
+<li>Managed, optimized, and updated databases as necessary.</li>
+<li>Developed app integration with RESTful and other APIs for Google Maps, social media logins, payment processors, blockchain wallet, and other services.</li>
+</ul>
+
 ## Core skills
 - 💽 <b>Programing Languages</b> : HTML, CSS, JavaScript, TypeScript, PHP, Python, QT, C++/C#, Java
 - 📗 <b>Front-end side</b> : Bootstrap, React, Redux, Next, Vue, Nuxt, TailwindCSS, Material-UI, CoreJS, Kendo-UI
@@ -114,10 +133,10 @@
 <br>
 <p align = "center">
 <!--   <img src = "https://github-readme-stats.vercel.app/api?username=krosmanksu&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=27"> -->
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krosmanksu&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-  <a href="https://github.com/krosmanksu/krosmanksu">
-    <img alt="krosmanksu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krosmanksu&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" />
-  </a>
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=krosmanksu&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27"> -->
+<!--   <a href="https://github.com/krosmanksu/krosmanksu"> -->
+<!--     <img alt="krosmanksu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krosmanksu&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF&hide_border=true" /> -->
+<!--   </a> -->
   
 </p>
 </details>
